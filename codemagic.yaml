@@ -34,8 +34,8 @@ workflows:
     artifacts:
       # Specify the artifact paths for APK and IPA
       - build/web/**
-          - name: web_build
-          path: build/web
+#      - name: web_build
+#          path: build/web
 
     publishing:
       email:
