@@ -1,0 +1,15 @@
+<svg id="Component_111_1" data-name="Component 111 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_40545" data-name="Rectangle 40545" width="24" height="24" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_109006" data-name="Group 109006" clip-path="url(#clip-path)">
+    <path id="Path_198572" data-name="Path 198572" d="M4,8h9" fill="none" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_198573" data-name="Path 198573" d="M17,8h3" fill="none" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_198574" data-name="Path 198574" d="M11,16h9" fill="none" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_198575" data-name="Path 198575" d="M4,16H7" fill="none" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <circle id="Ellipse_445" data-name="Ellipse 445" cx="2" cy="2" r="2" transform="translate(7 14)" fill="none" stroke="#292929" stroke-width="1.5"/>
+    <circle id="Ellipse_446" data-name="Ellipse 446" cx="2" cy="2" r="2" transform="translate(13 6)" fill="none" stroke="#292929" stroke-width="1.5"/>
+  </g>
+</svg>
