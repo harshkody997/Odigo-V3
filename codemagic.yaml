@@ -26,7 +26,7 @@ workflows:
 
       - name: Build Flutter web
         script: |
-          flutter build web --release --web-renderer canvaskit
+          flutter build web --release --web-renderer auto
 #           Alternative renderers:
 #           flutter build web --release --web-renderer canvaskit
 #           flutter build web --release --web-renderer auto
